@@ -1,1 +1,12 @@
-
+/target
+**/*.rs.bk
+Cargo.lock
+.cargo-ok
+.DS_Store
+.env
+.idea/
+.vscode/
+*.iml
+schema/
+artifacts/
+node_modules/
